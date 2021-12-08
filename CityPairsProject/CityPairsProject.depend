@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1586825491 source:c:\users\noah\desktop\algorithms\labs\citypairsproject\src\citypairs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"citypairs.h"
+
+1586825193 c:\users\noah\desktop\algorithms\labs\citypairsproject\src\citypairs.h
+
+1586820320 source:c:\users\noah\desktop\algorithms\labs\citypairsproject\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"citypairs.h"
+
+1586825491 source:c:\users\noah\desktop\algorithms\labs\y3868917 citypairs\citypairsproject\src\citypairs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"citypairs.h"
+
+1586825193 c:\users\noah\desktop\algorithms\labs\y3868917 citypairs\citypairsproject\src\citypairs.h
+
+1586820320 source:c:\users\noah\desktop\algorithms\labs\y3868917 citypairs\citypairsproject\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"citypairs.h"
+

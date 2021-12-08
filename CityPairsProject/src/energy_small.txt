@@ -1,0 +1,5 @@
+York	Hull	60
+Hull	Leeds	-47
+Leeds	Sheffield	161
+Sheffield	York	61
+Manchester  Sheffield   99
